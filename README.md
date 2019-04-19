@@ -1,3 +1,3 @@
 # Test
 Hello
-READNE file edited
+README file edited
